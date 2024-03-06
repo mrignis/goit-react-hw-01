@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "./components/task1";
+import Profile from "./components/Profile";
 import userData from "../src/userData.json";
 import FriendList from "./components/FriendList";
 import TransactionHistory from "./components/TransactionHistory";
