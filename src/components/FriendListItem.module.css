@@ -1,8 +1,9 @@
 /* FriendListItem.module.css */
 .friend-list-item {
     border: 1px solid #ccc;
-    padding: 10px;
-    margin-bottom: 10px;
+    padding: 10px  ;
+    margin: 10px;
+
 }
 
 .online {
