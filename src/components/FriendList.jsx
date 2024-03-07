@@ -1,6 +1,6 @@
 import React from "react";
 import FriendListItem from "./FriendListItem"; // імпортуємо компонент FriendListItem
-import "../components/FriendList.module.css";
+import styles from'./FriendList.module.css';
 
 
 

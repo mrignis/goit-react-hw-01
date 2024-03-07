@@ -1,0 +1,14 @@
+/* FriendListItem.module.css */
+.friend-list-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
